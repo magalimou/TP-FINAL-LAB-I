@@ -13,6 +13,9 @@
 #define PED "Pedidos.bin"
 #define USU "Usuarios.bin"
 
+///TRABAJO PRACTICO FINAL LAB 1 
+///MAGALI MOURIÑO
+
 int main()
 {
     int numSwitch;
