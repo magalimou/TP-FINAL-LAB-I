@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1655950305 source:c:\users\magui\documents\trabajos laboratorio\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1655972932 source:c:\users\magui\documents\trabajos laboratorio\tp final\catalogo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+
+1655949488 c:\users\magui\documents\trabajos laboratorio\tp final\catalogo.h
+
+1655949199 c:\users\magui\documents\trabajos laboratorio\tp final\pedido.h
+
+1655933373 source:c:\users\magui\documents\trabajos laboratorio\tp final\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Pedido.h"
+
+1655926570 source:c:\users\magui\documents\trabajos laboratorio\tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+
+1655922743 c:\users\magui\documents\trabajos laboratorio\tp final\menu.h
+
+1655931360 c:\users\magui\documents\trabajos laboratorio\tp final\varias.h
+
+1655931359 source:c:\users\magui\documents\trabajos laboratorio\tp final\varias.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+
+1655972490 c:\users\magui\documents\trabajos laboratorio\tp final\usuario.h
+
+1655972573 source:c:\users\magui\documents\trabajos laboratorio\tp final\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1655926570 source:c:\users\magui\documents\trabajos laboratorio\tp final lab i\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+
+1655949488 c:\users\magui\documents\trabajos laboratorio\tp final lab i\catalogo.h
+
+1655949199 c:\users\magui\documents\trabajos laboratorio\tp final lab i\pedido.h
+
+1655922743 c:\users\magui\documents\trabajos laboratorio\tp final lab i\menu.h
+
+1655981253 source:c:\users\magui\documents\trabajos laboratorio\tp final lab i\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Pedido.h"
+
+1655981601 source:c:\users\magui\documents\trabajos laboratorio\tp final lab i\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1655931360 c:\users\magui\documents\trabajos laboratorio\tp final lab i\varias.h
+
+1655972490 c:\users\magui\documents\trabajos laboratorio\tp final lab i\usuario.h
+
+1655981666 source:c:\users\magui\documents\trabajos laboratorio\tp final lab i\varias.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+
+1655997087 source:c:\users\magui\documents\trabajos laboratorio\tp final lab i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1655997070 source:c:\users\magui\documents\trabajos laboratorio\tp final lab i\catalogo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+
+1655997070 source:c:\users\magui\documents\trabajos laboratorio\tp final.lab i\catalogo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+
+1655949488 c:\users\magui\documents\trabajos laboratorio\tp final.lab i\catalogo.h
+
+1656430790 source:c:\users\magui\documents\trabajos laboratorio\tp final.lab i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1655949199 c:\users\magui\documents\trabajos laboratorio\tp final.lab i\pedido.h
+
+1655922743 c:\users\magui\documents\trabajos laboratorio\tp final.lab i\menu.h
+
+1655931360 c:\users\magui\documents\trabajos laboratorio\tp final.lab i\varias.h
+
+1655972490 c:\users\magui\documents\trabajos laboratorio\tp final.lab i\usuario.h
+
+1655926570 source:c:\users\magui\documents\trabajos laboratorio\tp final.lab i\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+
+1655981253 source:c:\users\magui\documents\trabajos laboratorio\tp final.lab i\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Pedido.h"
+
+1656456874 source:c:\users\magui\documents\trabajos laboratorio\tp final.lab i\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1656451219 source:c:\users\magui\documents\trabajos laboratorio\tp final.lab i\varias.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+
+1655997070 source:c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\catalogo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+
+1655949488 c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\catalogo.h
+
+1656430790 source:c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1655949199 c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\pedido.h
+
+1655922743 c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\menu.h
+
+1655931360 c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\varias.h
+
+1655972490 c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\usuario.h
+
+1655926570 source:c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+
+1655981253 source:c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Pedido.h"
+
+1656456874 source:c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+	"Usuario.h"
+
+1656451219 source:c:\users\magui\documents\1° cuatrimestre\trabajos laboratorio\tp final.lab i\varias.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	"Catalogo.h"
+	"Pedido.h"
+	"Menu.h"
+	"varias.h"
+
